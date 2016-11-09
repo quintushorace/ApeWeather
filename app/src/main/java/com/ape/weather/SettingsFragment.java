@@ -16,7 +16,7 @@ import com.ape.dynamicweather.BaseDrawer.Type;
 import com.ape.support.widget.LabelSpinner;
 import com.ape.support.widget.SmoothSwitch;
 import com.ape.weather.api.ApiManager.Area;
-import com.ape.weather.github.R;
+import com.ape.weather.R;
 
 import java.util.ArrayList;
 import java.util.Calendar;

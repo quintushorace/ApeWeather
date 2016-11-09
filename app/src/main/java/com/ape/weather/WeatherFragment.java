@@ -21,7 +21,7 @@ import com.ape.weather.api.ApiManager;
 import com.ape.weather.api.ApiManager.Area;
 import com.ape.weather.api.entity.HeWeatherDataService30;
 import com.ape.weather.api.entity.Weather;
-import com.ape.weather.github.R;
+import com.ape.weather.R;
 import com.ape.weather.widget.AqiView;
 import com.ape.weather.widget.AstroView;
 import com.ape.weather.widget.DailyForecastView;

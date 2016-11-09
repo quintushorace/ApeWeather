@@ -20,7 +20,7 @@ import android.widget.PopupWindow;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.ape.weather.github.R;
+import com.ape.weather.R;
 
 import java.util.ArrayList;
 import java.util.Collections;

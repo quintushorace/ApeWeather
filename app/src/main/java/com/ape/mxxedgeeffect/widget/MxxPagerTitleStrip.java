@@ -34,7 +34,7 @@ import android.view.ViewGroup;
 import android.view.ViewParent;
 import android.widget.TextView;
 
-import com.ape.weather.github.R;
+import com.ape.weather.R;
 
 import java.lang.ref.WeakReference;
 

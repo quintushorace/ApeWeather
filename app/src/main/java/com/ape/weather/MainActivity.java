@@ -24,7 +24,7 @@ import com.ape.mxxedgeeffect.widget.MxxFragmentPagerAdapter;
 import com.ape.mxxedgeeffect.widget.MxxViewPager;
 import com.ape.weather.api.ApiManager;
 import com.ape.weather.api.ApiManager.Area;
-import com.ape.weather.github.R;
+import com.ape.weather.R;
 
 import java.util.ArrayList;
 
